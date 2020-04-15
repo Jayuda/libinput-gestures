@@ -39,7 +39,7 @@ swipe_max_timeout=200
 # Delay (ms) for gesture all before begin action triggered,
 # if end event come before delay, all begin, update and delay
 # is canceled
-gesture_all_delay_value=100
+gesture_all_delay_value=10
 
 # Execute gesture all action only if delay timeout already
 # reached. It can be set for individual fingers (3 and 4)
